@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Nour Abosen
 - 👀 I’m interested in mathematics, research and coding
-- 🌱 I’m currently learning Python and football analytics
-- 💞️ I’m looking to collaborate on researches and project-based learning
 - 📫 Reach me via 🐦 @NourAbosen
