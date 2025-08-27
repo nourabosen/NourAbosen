@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nour Abosen
+# 👋 Hi, I’m Nour Alhuda Adel Abosen
 
 ### 🌟 About Me  
 A math and computer science enthusiast who enjoys turning ideas into code and solving problems through research.  
