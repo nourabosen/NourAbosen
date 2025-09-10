@@ -1,4 +1,4 @@
-<h2 align="center">Math Enthusiast & AI Researcher</h2>
+<h2 align="center">Math Enthusiast & Researcher</h2>
 
 ###
 
