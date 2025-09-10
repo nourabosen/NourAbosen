@@ -9,7 +9,7 @@ I’m a math and computer science enthusiast who loves transforming ideas into c
 - 📝 Open-Source & Technical Writing  
 
 ## 🎓 Education  
-- **B.Sc. in Computer Science** – Egypt-Japan University (2020–2025)  
+- **B.Sc. in Computer Engineering** – Egypt-Japan University (2020–2025)  
 - **Thanaweya A’ma** – Kafr Elsheikh STEM School (2017–2020)  
 
 ## 📬 Let’s Connect  
