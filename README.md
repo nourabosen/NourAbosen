@@ -29,7 +29,7 @@ I’m a math and computer science enthusiast who loves transforming ideas into c
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=NourAbosen&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
+[![](https://visitcount.itsvg.in/api?id=NourAbosen&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://nirzak-streak-stats.vercel.app/?user=NourAbosen&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NourAbosen&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  
 
