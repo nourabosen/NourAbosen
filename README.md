@@ -60,18 +60,18 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
 
 <div align="center">
   <a href="https://linkedin.com/in/NourAbosen" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="45" height="45" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://x.com/NourAbosen" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" height="45" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X (Twitter)" />
   </a>
   <a href="https://instagram.com/NourAbosen" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45" height="45" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="https://facebook.com/nourabosen.8" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="45" height="45" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
   </a>
   <a href="https://nourabosen.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="45" height="45" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googleearth&logoColor=white" height="35" alt="Website" />
   </a>
-</div> 
+</div>
