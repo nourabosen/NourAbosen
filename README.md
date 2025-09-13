@@ -24,7 +24,7 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
 ### 🔍 Interests
 - 📐 Pure & Applied Mathematics
 - 🤖 Machine Learning / Quantum Machine Learning
-- 📊 Data Science & Time Series Forecasting
+- 📊 Time Series Forecasting
 - 📝 Technical Writing & Open Source Contribution
 
 ### 🎓 Education
