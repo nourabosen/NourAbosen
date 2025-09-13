@@ -28,9 +28,9 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
 - 📝 Technical Writing & Open Source Contribution
 
 ### 🎓 Education
-- **B.Sc. Computer Engineering**  
+- **B.Sc. in Computer Engineering**  
   *Egypt-Japan University for Science and Technology (E-JUST)* | 2020–2025  
-- **Thanaweya A’ma (STEM Track)**  
+- **Thanaweya A’ma (GCE)**  
   *Kafr Elsheikh STEM School* | 2017–2020
 
 ---
