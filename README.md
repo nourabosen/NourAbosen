@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAbosen&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NourAbosen&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 ###
