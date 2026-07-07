@@ -1,32 +1,30 @@
 <h2 align="center">Math Enthusiast & Researcher</h2>
 
-###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NourAbosen&style=flat-square" alt="Profile views" />
 </div>
 
-###
+<br />
 
 <div align="center">
   <a href="https://github.com/NourAbosen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAbosen&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=NourAbosen&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
   </a>
 </div>
 
-###
+<br />
 
-## 👋 Hi, I’m Nour Alhuda Adel Abosen
+## 👋 Hi, I’m NOur
 
 > **“Number rules the universe.”** — Pythagoras ⭐
 
-I'm driven by a deep passion for **mathematics**, **machine learning**, and **quantum computing**. I thrive on transforming abstract ideas into functional code and solving real-world problems through research and innovation.
+I'm driven by a deep passion for **mathematics**, **probabilistic modelling **, and **machine learning**. I thrive on transforming abstract mathematical frameworks into functional code and solving real-world data challenges through rigorous research and open-source innovation.
 
 ### 🔍 Interests
 - 📐 Pure & Applied Mathematics
-- 🤖 Machine Learning / Quantum Machine Learning
-- 📊 Time Series Forecasting
-- 📝 Technical Writing & Open Source Contribution
+- 📊 Bayesian Inference & Probabilistic Modelling (PyMC)
+- 📈 Time Series Forecasting & Predictive Analytics
+- 📝 Technical Research & Open-Source Tools
 
 ### 🎓 Education
 - **B.Sc. in Computer Engineering**  
@@ -39,15 +37,17 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
 ### 🛠️ Skills & Technologies
 
 <div align="center">
+  <!-- Core Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" />
+  <!-- Data Science & ML Frameworks -->
+  <img src="https://img.shields.io/badge/PyMC-3A6E84?style=flat&logo=python&logoColor=white" height="40" alt="PyMC" />
+  <!-- Ecosystem & Workflow -->
+  <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LaTeX-white?style=flat&logo=latex&logoColor=black" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </div>
-
 
 ---
 
