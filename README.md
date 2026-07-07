@@ -40,11 +40,9 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </div>
 
@@ -66,7 +64,7 @@ I'm driven by a deep passion for **mathematics**, **machine learning**, and **qu
   <a href="https://facebook.com/nourabosen.8" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
   </a>
-  <a href="https://nourabosen.netlify.app/" target="_blank">
+  <a href="https://www.nourabosen.com/" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googleearth&logoColor=white" height="35" alt="Website" />
   </a>
 </div>
