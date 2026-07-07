@@ -9,7 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAbosen&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
+  <a href="https://github.com/NourAbosen">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAbosen&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 ###
