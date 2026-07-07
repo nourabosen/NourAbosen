@@ -18,7 +18,7 @@
 
 > **“Number rules the universe.”** — Pythagoras ⭐
 
-I'm driven by a deep passion for **mathematics**, **probabilistic modelling **, and **machine learning**. I thrive on transforming abstract mathematical frameworks into functional code and solving real-world data challenges through rigorous research and open-source innovation.
+I'm driven by a deep passion for **mathematics**, **probabilistic modelling**, and **machine learning**. I thrive on transforming abstract mathematical frameworks into functional code and solving real-world data challenges through rigorous research and open-source innovation.
 
 ### 🔍 Interests
 - 📐 Pure & Applied Mathematics
