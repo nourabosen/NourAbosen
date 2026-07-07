@@ -40,7 +40,6 @@ I'm driven by a deep passion for **mathematics**, **probabilistic modelling **, 
   <!-- Core Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" />
   <!-- Data Science & ML Frameworks -->
   <img src="https://img.shields.io/badge/PyMC-3A6E84?style=flat&logo=python&logoColor=white" height="40" alt="PyMC" />
   <!-- Ecosystem & Workflow -->
